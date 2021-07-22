@@ -1,0 +1,17 @@
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.deps.json
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.json
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.dev.json
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.dll
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.pdb
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\DevopsSampleproject.dll
+D:\sample\DevopsSampleproject\UnitTestProject\bin\Debug\netcoreapp2.1\DevopsSampleproject.pdb
+D:\sample\DevopsSampleproject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csprojAssemblyReference.cache
+D:\sample\DevopsSampleproject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\sample\DevopsSampleproject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfoInputs.cache
+D:\sample\DevopsSampleproject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfo.cs
+D:\sample\DevopsSampleproject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CopyComplete
+D:\sample\DevopsSampleproject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.dll
+D:\sample\DevopsSampleproject\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.pdb
