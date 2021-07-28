@@ -1,0 +1,16 @@
+//def ReleaseDir = "c:\inetpub\wwwroot"
+pipeline {
+			agent any
+			stages {
+				stage('GIT_SCM'){
+					steps{
+						checkout([$class: 'GitSCM', branches: [[name: '*/main']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '', url: 'https://github.com/baddamgouthami/WindowsServer.git']]])
+					}
+				}
+				stage('Build') {
+    					steps {
+    					    bat "\"${tool 'MSBuild'}\" DevopsSampleproject.sln /p:DeployOnBuild=true /p:DeployDefaultTarget=WebPublish /p:WebPublishMethod=FileSystem /p:SkipInvalidConfigurations=true /t:build /p:Configuration=Release /p:Platform=\"Any CPU\" /p:DeleteExistingFiles=True /p:publishUrl=c:\\inetpub\\wwwroot"
+    					}
+				}
+			}
+}
